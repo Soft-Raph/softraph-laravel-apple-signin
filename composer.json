@@ -19,5 +19,7 @@
             "name": "Ariyo Ayomide",
             "email": "ariyoraphael1@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
