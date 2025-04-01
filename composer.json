@@ -1,0 +1,23 @@
+{
+    "name": "softraph/laravel-apple-signin",
+    "description": "A Laravel package to implement Sign in with Apple authentication seamlessly.",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0",
+        "firebase/php-jwt": "^6.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Softraph\\LaravelAppleSignin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ariyo Ayomide",
+            "email": "ariyoraphael1@gmail.com"
+        }
+    ]
+}
